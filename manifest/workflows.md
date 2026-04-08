@@ -1,69 +1,90 @@
 # Workflows
 
-## Tagesstart – Intentional, nicht reaktiv
+## Tagesstruktur – Zwei Hälften
 
-**Das Problem:** Wenn der Tag in Slack/Email startet, ist er reaktiv bevor er bewusst ist. Quickwins werden mitgenommen, Komplexes wird aufgeschoben. Abends ist unklar was wirklich geschafft wurde.
+Der Tag ist in zwei klar getrennte Hälften geteilt. Die Grenze liegt bei der Mittagspause.
 
-**Das Prinzip:** Asana vor Slack. Immer.
+```
+Vormittag → Fokus       Mittagspause → Break       Nachmittag → Reaktiv
+──────────────────────  ───────────────────────     ──────────────────────
+Asana, Anchor Task      Bewusste Trennung           Slack, Gmail, Quickwins
+Kein Slack, kein Gmail  Reset, Abstand              Neue Aufgaben aufnehmen
+```
 
-### Morgenritual (vor dem Öffnen von Slack/Email)
+**Warum zwei Hälften?** Willenskraft erschöpft sich. "Ich öffne Slack heute nicht" scheitert irgendwann. Eine zeitliche Regel scheitert nicht – Slack-Zeit gibt es, sie beginnt nur um 12:00.
+
+---
+
+## Vormittag – Fokusblock
+
+### Morgenritual (vor dem Öffnen von Slack/Gmail)
 1. Asana öffnen
 2. Drei Fragen beantworten:
    - Was ist heute das Wichtigste, das ich abschließen kann?
    - Welche offenen Versprechen sind am dringendsten?
    - Was brauche ich, um loszulegen? (Infos, Entscheidungen, Klärungen)
-3. Einen "Anchor Task" definieren – der eine Task, dessen Abschluss den Tag erfolgreich macht
-   - **Genau einen.** Nicht zwei, nicht drei.
-   - Alles andere an dem Tag ist Bonus.
-4. *Erst dann* Slack und Email öffnen
+3. **Anchor Task festlegen – genau einen.** Alles andere ist Bonus.
+4. Anchor Task starten
+
+### Was im Fokusblock gilt
+- Slack zu. Nicht minimiert – zu.
+- Gmail zu.
+- Notifications aus (Desktop + Handy)
+- Wenn jemand wirklich dringend etwas braucht, ruft er an
+
+### Ausnahmen
+- Wenn der Anchor Task eine Rückfrage an jemanden erfordert: kurz Slack auf, Nachricht senden, sofort wieder zu
+- Keine Ausnahme für "kurz schauen was so reinkommt"
+
+### Reibung einbauen
+Gewohnheiten die auf Willenskraft basieren, brechen unter Stress. Deshalb:
+- Slack-Desktop-App beim Start nicht automatisch öffnen lassen
+- Gmail-Tab im Browser nicht als erstes pinnen
+- Asana als Browser-Startseite setzen
 
 ---
 
-## Inbox → Asana Pipeline (Slack, Gmail, alle Kanäle)
+## Mittagspause – Der Break
 
-**Das Problem:** Anfragen die in Slack, Gmail oder anderen Kanälen ankommen und nicht sofort erledigt werden, werden dort als "ungelesen" oder "Reminder" belassen. Das erzeugt parallele Schuld-Register neben Asana – visueller Dauerstress ohne Priorität oder Plan.
+Die Pause ist eine echte Trennung, kein kurzes Wegatmen zwischen zwei Slack-Sessions.
 
-**Die Diagnose:** Ungelesene Mail und Slack-Reminder *fühlen sich* wie ein System an, sind aber keines. Sie haben kein Done-Kriterium, keine Priorität, keinen Platz im Tag.
+- Bildschirm verlassen
+- Etwas essen, kurz rausgehen oder etwas anderes tun
+- **Kurze Retrospektive (2 Minuten):** Anchor Task erledigt? Wenn ja: bewusst registrieren. Wenn nein: warum nicht – und ist das okay?
 
-**Die Regel:** Alles was mehr als 5 Minuten braucht, wird sofort als Asana-Task angelegt – dann Slack-Reminder entfernen / Mail als gelesen markieren.
-
-### Task-Erstellung aus Slack/Gmail
-- Task-Titel: Was genau muss gemacht werden? (nicht "Sache mit X klären")
-- Erste Aktion: Was ist der erste konkrete Schritt? (muss in 10 Minuten machbar sein)
-- Fälligkeit und Priorität direkt setzen
-- Slack-Nachricht oder E-Mail als Beschreibung oder Link anhängen
-
-> Slack-Reminders und ungelesene Mails sind kein Task-System. Sie sind Stress-Stapel. Der einzige Ort für offene Arbeit ist Asana.
+Der Break ist auch der Reset: Was immer im Vormittag nicht fertig wurde, ist jetzt abgelegt. Der Nachmittag startet frisch.
 
 ---
 
-## Task-Qualität – Das "5-Klicks"-Prinzip
+## Nachmittag – Reaktivblock
 
-**Das Problem:** Unklare Tasks werden vermieden. Klare Tasks werden erledigt. Das ist keine Charakterfrage, sondern Neurologie.
+Jetzt kommen Slack und Gmail dran. Das ist keine Schwäche – das ist der geplante Platz für diese Arbeit.
 
-**Das Prinzip:** Kein Task ist gültig, wenn unklar ist womit er anfängt.
+### Inbox-Abarbeitung
+Alle Kanäle nach derselben Regel:
 
-### Was einen guten Task ausmacht
-- **Konkrete erste Aktion** – "Dokument öffnen und 3 Punkte aufschreiben" statt "Strategie ausarbeiten"
-- **Klares Done-Kriterium** – Wann ist dieser Task fertig?
-- **Alle nötigen Infos verfügbar** – Fehlende Infos = eigener Task vorher
+| Aufwand | Aktion |
+|---------|--------|
+| < 5 min | Sofort erledigen |
+| > 5 min | Als Asana-Task anlegen, Kanal bereinigen |
 
-### Wenn ein Task unklar ist
-Nicht aussitzen. Sofort einen Klärungsschritt davor legen:
-- "Rückfrage an X stellen" als eigenen Task
-- "30 Minuten Thema strukturieren" als Vorstufe
+### Neue Anfragen aufnehmen
+- Kein sofortiges Ja auf komplexe Anfragen
+- Aufnehmen → Kapazität prüfen → Datum nennen
+
+### Quickwins
+Erlaubt und sinnvoll – aber erst nachdem die Inbox strukturiert ist, nicht als Einstieg.
 
 ---
 
 ## Abschlussritual (Tagesende)
 
-**Das Problem:** Slack-Arbeit hinterlässt keinen Nachweis. Abends ist unklar was geschafft wurde, auch wenn viel erledigt wurde.
+Den Tag sichtbar machen – besonders an Tagen wo vieles reaktiv war.
 
-**Das Prinzip:** Den Tag sichtbar machen.
-
-1. Asana: Alle erledigten Tasks als abgeschlossen markieren
-2. Eine Sache aufschreiben: Was habe ich heute wirklich fertiggestellt?
-3. Offene Versprechen prüfen: Muss ich jemanden proaktiv updaten, weil etwas verschoben wurde?
+1. Erledigte Tasks in Asana als abgeschlossen markieren
+2. Einen Satz aufschreiben: *Was habe ich heute fertiggestellt?*
+3. Offene Versprechen prüfen: Muss ich jemanden proaktiv updaten?
+4. Morgigen Anchor Task bereits festlegen – damit der nächste Morgen sofort starten kann
 
 ---
 
