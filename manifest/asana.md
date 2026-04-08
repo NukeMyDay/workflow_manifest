@@ -62,7 +62,12 @@ Ein Subtask pro Tag ist ein gutes Ziel. Mehr ist Bonus.
 ### Während des Sprints
 **Priorisierungsprinzip:** Wichtige Tasks zuerst, nicht einfache.
 
-Das Gehirn will die einfachen Sachen – das ist normal. Dagegen hilft: Den Anchor Task (wichtigste Aufgabe des Tages) morgens festlegen und *als erstes* angehen, bevor Slack geöffnet wird.
+Das Gehirn will die einfachen Sachen – das ist normal. Dagegen hilft: Den Anchor Task morgens festlegen und *als erstes* angehen, bevor Slack geöffnet wird.
+
+**Anchor Task Regel: Genau einer pro Tag.**
+- Ein Sprint mit 10 Arbeitstagen = maximal 10 Anchor Tasks
+- Das ist die realistische Kapazitätsgrenze für Sprint-Planung
+- Wenn Laura mehr als 10 wichtige Tasks für einen Sprint einplant: aktiv verhandeln
 
 **Frühes Eskalieren:**
 Sobald absehbar ist, dass ein Sprint-Ziel nicht erreichbar ist → sofort Laura informieren, nicht beim Review.

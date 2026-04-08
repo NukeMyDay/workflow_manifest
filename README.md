@@ -19,6 +19,7 @@ manifest/
   decisions.md      # Entscheidungsframework
   communication.md  # Wie ich kommuniziere & zusammenarbeite
   boundaries.md     # Grenzen, Energie-Management, Non-Negotiables
+  recovery.md       # Protokoll für schlechte Tage und alte Muster
   evolution.md      # Changelog – wie sich meine Arbeitsweise verändert
 ```
 

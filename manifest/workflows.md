@@ -13,6 +13,8 @@
    - Welche offenen Versprechen sind am dringendsten?
    - Was brauche ich, um loszulegen? (Infos, Entscheidungen, Klärungen)
 3. Einen "Anchor Task" definieren – der eine Task, dessen Abschluss den Tag erfolgreich macht
+   - **Genau einen.** Nicht zwei, nicht drei.
+   - Alles andere an dem Tag ist Bonus.
 4. *Erst dann* Slack und Email öffnen
 
 ---
