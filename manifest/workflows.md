@@ -5,13 +5,14 @@
 Der Tag ist in zwei klar getrennte Hälften geteilt. Die Grenze liegt bei der Mittagspause.
 
 ```
-08:00 – 10:00           10:00 – 10:30              10:30 – 12:00
+08:00 – 10:00           10:00 – 11:30              11:30 – 12:30
 ──────────────────────  ───────────────────────     ──────────────────────
-Deep Focus              Konzentrationstief          Leichterer Fokus
-Anchor Task angehen     Planung, Klärungen,         Subtasks, Dokumentation
-Beste Energie des Tages leichte Subtasks            Vorbereitung Nachmittag
+Deep Focus              Konzentrationstief          Zweites Fokusfenster
+Anchor Task angehen     Leichte Tasks, Klärungen    Etwas essen → Recovery
+Beste Energie des Tages Keine schweren Entsch.      Oft löst sich hier ein
+                                                    Knoten
 
-12:00 – Mittagspause – Break
+12:30 – Mittagspause / Break (falls noch nicht gegessen)
 
 Nachmittag → Reaktiv
 ──────────────────────
@@ -36,7 +37,7 @@ Neue Aufgaben aufnehmen
 3. **Anchor Task festlegen – genau einen.** Alles andere ist Bonus.
 4. Anchor Task starten – jetzt, nicht nach dem Kaffee
 
-### 10:00 – Konzentrationstief
+### 10:00 – Konzentrationstief (bis ~11:30)
 Kein Durchkämpfen. Stattdessen:
 - Leichtere Subtasks des Anchor Tasks
 - Klärungsfragen aufschreiben oder stellen
@@ -44,6 +45,9 @@ Kein Durchkämpfen. Stattdessen:
 - Kurze Pause wenn nötig
 
 Kein Slack, kein Gmail – auch hier nicht.
+
+### 11:30 – Zweites Fokusfenster
+Etwas essen (auch wenn die Mittagspause noch kommt) – das ist Teil des Recoveries, keine Ablenkung. Die Energie kommt zurück. Oft löst sich hier ein Knoten der vorher blockiert hat. Dieses Fenster für den Anchor Task nutzen wenn er morgens nicht fertig wurde.
 
 ### Was im Fokusblock gilt
 - Slack zu. Nicht minimiert – zu.
