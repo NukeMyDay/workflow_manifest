@@ -14,10 +14,11 @@ Beste Energie des Tages Keine schweren Entsch.      Oft löst sich hier ein
 
 12:30 – Mittagspause / Break (falls noch nicht gegessen)
 
-Nachmittag → Reaktiv
-──────────────────────
-Slack, Gmail, Quickwins
-Neue Aufgaben aufnehmen
+13:00 – 13:30           13:30+
+──────────────────────  ───────────────────────
+Reaktiv, noch Energie   Nachmittagstief
+Slack, Gmail, Quickwins Wenn Fortschritt stockt:
+Neue Tasks aufnehmen    Wechsel oder Pause
 ```
 
 **Warum zwei Hälften?** Willenskraft erschöpft sich. "Ich öffne Slack heute nicht" scheitert irgendwann. Eine zeitliche Regel scheitert nicht – Slack-Zeit gibt es, sie beginnt nur um 12:00.
@@ -64,6 +65,19 @@ Gewohnheiten die auf Willenskraft basieren, brechen unter Stress. Deshalb:
 - Slack-Desktop-App beim Start nicht automatisch öffnen lassen
 - Gmail-Tab im Browser nicht als erstes pinnen
 - Asana als Browser-Startseite setzen
+
+---
+
+## Nachmittagstief (~13:30)
+
+Wenn gegen 13:30 Konzentration nachlässt – besonders wenn gerade auch kein Fortschritt spürbar ist:
+
+- **Nicht durchkämpfen.** Blockierte Arbeit bei niedriger Energie erzeugt Frust, keinen Output.
+- Task wechseln: etwas Reaktives aus der Inbox abarbeiten (Slack, Gmail)
+- Kurze Pause: aufstehen, etwas trinken
+- Wenn möglich: den blockierten Task für heute loslassen und morgen früh (8 Uhr Energiefenster) wieder angehen
+
+**Das Muster:** Fehlender Fortschritt kostet Konzentration genauso wie Müdigkeit. Wenn etwas nicht vorwärts geht, hilft mehr Sitzen selten.
 
 ---
 
