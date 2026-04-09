@@ -5,6 +5,7 @@
 - **Asana vor Slack** – Der Tag beginnt intentional, nicht reaktiv
 - **Kein sofortiges Ja** auf Anfragen die mehr als 5 Minuten brauchen
 - **Slack-Reminders ≠ Task-System** – Alles Komplexe wird sofort in Asana überführt
+- **Handy weg während Fokusblöcken** – außerhalb Sichtlinie und Reichweite. Nicht als Strafe, sondern weil Aufmerksamkeit nicht fragmentiert werden soll.
 
 ---
 
@@ -25,11 +26,12 @@ Zu schnelles Ja-Sagen passiert oft nicht aus Hilfsbereitschaft, sondern als unbe
 - Tasks abschließen und als erledigt markieren
 - Klare, gut definierte Aufgaben mit direktem Feedback
 - Versprechen halten – das konkrete Gefühl "ich habe gesagt ich mache X, und X ist fertig"
+- Ungeteilte Aufmerksamkeit auf eine Sache – Fortschritt erzeugt Fortschritt
 
 ### Was Energie kostet
 - Unklare, große Aufgaben ohne definierten Einstieg
-- Zwei parallele Schuld-Register (Asana + Slack-Reminders)
-- Schamgefühle rund um nicht gehaltene Versprechen
+- Fragmentierte Aufmerksamkeit – gleichzeitig mehrere Kanäle im Blick haben
+- Handy griffbereit während Fokusarbeit
 - Tage die sich reaktiv und leer anfühlen obwohl viel passiert ist
 
 ### Schutzstrategien

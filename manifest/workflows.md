@@ -65,6 +65,7 @@ Gewohnheiten die auf Willenskraft basieren, brechen unter Stress. Deshalb:
 - Slack-Desktop-App beim Start nicht automatisch öffnen lassen
 - Gmail-Tab im Browser nicht als erstes pinnen
 - Asana als Browser-Startseite setzen
+- **Handy außerhalb Sichtlinie und Reichweite** – nicht auf dem Schreibtisch, nicht neben der Tastatur. Das Handy wird reflexartig gegriffen wenn Konzentration nachlässt, verstärkt das Tief aber nur.
 
 ---
 
