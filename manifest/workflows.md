@@ -23,7 +23,14 @@ Neue Tasks aufnehmen    Wechsel oder Pause
 
 **Warum zwei Hälften?** Willenskraft erschöpft sich. "Ich öffne Slack heute nicht" scheitert irgendwann. Eine zeitliche Regel scheitert nicht – Slack-Zeit gibt es, sie beginnt nur um 12:00.
 
-**Das Energiefenster nutzen:** 8:00–10:00 ist das wertvollste Zeitfenster des Tages – höchste Konzentration, keine Ablenkung. Der Anchor Task gehört genau hier rein, nicht nach dem Aufwärmen.
+**Das Energieprofil:**
+- `08:00–10:00` – Tiefstes Fokus-Fenster. Anchor Task startet hier.
+- `10:00–11:30` – Konzentrationstief. Leichtere Aufgaben, keine schweren Entscheidungen.
+- `11:30–13:30` – Zweites Fokus-Fenster. Oft löst sich hier ein Knoten.
+- `~13:30` – Kurzes Tief. 10–20 Minuten etwas anderes tun reichen zur Erholung.
+- `14:30+` – Drittes Fokus-Fenster.
+
+**Kein Pomodoro.** Keine erzwungenen Pausen in festen Abständen. Konzentration kommt natürlich – und wann sie nachlässt, merkt man es selbst. Dann 10–20 Minuten etwas anderes, danach weiter. Keine langen Auszeiten nötig.
 
 ---
 
