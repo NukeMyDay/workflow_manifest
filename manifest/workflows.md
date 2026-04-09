@@ -5,26 +5,45 @@
 Der Tag ist in zwei klar getrennte Hälften geteilt. Die Grenze liegt bei der Mittagspause.
 
 ```
-Vormittag → Fokus       Mittagspause → Break       Nachmittag → Reaktiv
+08:00 – 10:00           10:00 – 10:30              10:30 – 12:00
 ──────────────────────  ───────────────────────     ──────────────────────
-Asana, Anchor Task      Bewusste Trennung           Slack, Gmail, Quickwins
-Kein Slack, kein Gmail  Reset, Abstand              Neue Aufgaben aufnehmen
+Deep Focus              Konzentrationstief          Leichterer Fokus
+Anchor Task angehen     Planung, Klärungen,         Subtasks, Dokumentation
+Beste Energie des Tages leichte Subtasks            Vorbereitung Nachmittag
+
+12:00 – Mittagspause – Break
+
+Nachmittag → Reaktiv
+──────────────────────
+Slack, Gmail, Quickwins
+Neue Aufgaben aufnehmen
 ```
 
 **Warum zwei Hälften?** Willenskraft erschöpft sich. "Ich öffne Slack heute nicht" scheitert irgendwann. Eine zeitliche Regel scheitert nicht – Slack-Zeit gibt es, sie beginnt nur um 12:00.
+
+**Das Energiefenster nutzen:** 8:00–10:00 ist das wertvollste Zeitfenster des Tages – höchste Konzentration, keine Ablenkung. Der Anchor Task gehört genau hier rein, nicht nach dem Aufwärmen.
 
 ---
 
 ## Vormittag – Fokusblock
 
-### Morgenritual (vor dem Öffnen von Slack/Gmail)
+### 08:00 – Morgenritual (vor dem Öffnen von Slack/Gmail)
 1. Asana öffnen
 2. Drei Fragen beantworten:
    - Was ist heute das Wichtigste, das ich abschließen kann?
    - Welche offenen Versprechen sind am dringendsten?
    - Was brauche ich, um loszulegen? (Infos, Entscheidungen, Klärungen)
 3. **Anchor Task festlegen – genau einen.** Alles andere ist Bonus.
-4. Anchor Task starten
+4. Anchor Task starten – jetzt, nicht nach dem Kaffee
+
+### 10:00 – Konzentrationstief
+Kein Durchkämpfen. Stattdessen:
+- Leichtere Subtasks des Anchor Tasks
+- Klärungsfragen aufschreiben oder stellen
+- Planung für den Nachmittag
+- Kurze Pause wenn nötig
+
+Kein Slack, kein Gmail – auch hier nicht.
 
 ### Was im Fokusblock gilt
 - Slack zu. Nicht minimiert – zu.
