@@ -13,7 +13,7 @@
 
 Zu schnelles Ja-Sagen passiert oft nicht aus Hilfsbereitschaft, sondern als unbewusste Ablenkung von größeren, unklareren Aufgaben. Eine neue Anfrage fühlt sich lösbar an – und gibt einen kurzen Ausweg aus dem Druck des Eigentlichen.
 
-**Signal erkennen:** Wenn eine neue Anfrage sich wie Erleichterung anfühlt, ist es wahrscheinlich Vermeidung.
+**Signal erkennen:** Wenn eine neue Anfrage – oder privates Programmieren, ein interessantes Nebenprojekt, ein Quickwin – sich wie Erleichterung anfühlt, ist es wahrscheinlich Vermeidung.
 
 **Die Gegenfrage vor jedem Ja:**
 > *"Sage ich das zu, weil es wichtig ist – oder weil es kleiner und klarer ist als das, womit ich eigentlich nicht weitermache?"*

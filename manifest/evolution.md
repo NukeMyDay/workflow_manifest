@@ -17,6 +17,24 @@ Jeder Eintrag dokumentiert eine bewusste Veränderung:
 
 ## Einträge
 
+### 2026-04-10 – Erster echter Testtag
+
+**Was passiert ist:**
+- Nicht konsequent auf Slack/Gmail verzichtet während Fokusblöcken
+- Privates Programmieren zwischen Arbeitsaufgaben (Ablenkung)
+- 1-2 Dinge aufgeschoben, erst spät begonnen obwohl sie heute fertig werden mussten
+
+**Was das zeigt:**
+Das private Programmieren ist dieselbe Struktur wie Quickwins: etwas Klares und Befriedigendes als Ausweg aus dem Unklaren. Nur noch weiter weg von der eigentlichen Aufgabe.
+
+**Was gut war:**
+Das Muster wurde erkannt und benannt – am selben Tag. Das ist der eigentliche Fortschritt.
+
+**Für morgen:**
+Handy weg. Asana vor Slack. Einen Anchor Task – den zuerst.
+
+---
+
 ### 2026-04-08 – Workflow Manifest gestartet + erste ehrliche Bestandsaufnahme
 **Was:** Workflow Manifest angelegt. Im Interview-Format die eigene Arbeitsweise analysiert und dokumentiert.
 **Warum:** Klarheit für mich selbst, bessere Zusammenarbeit mit anderen und LLMs.
